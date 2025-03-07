@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://kit.fontawesome.com/c438e7529f.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+
+    <div class="menu">
+        <h1 class="fas fa-sticky-note"> My Notes</h1>
+        <div class="menu-button">
+            <button class="add icon"><i class="fas fa-plus"></i></button>
+            <button class="delete-all icon"><i class="fas fa-trash-alt"></i></button>
+        </div>
+    </div>
+
+    <div class="note-area">
+       
+    </div>
+
+
+    <div class="note-panel">
+        <h2>Dodaj notatke</h2>
+        <label for="category"></label>
+        <select  id="category" onchange="chosenValue()">
+            <option value="0" disabled selected>wybierz kategorie</option>
+            <option value="1">Zakupy</option>
+            <option value="1">Praca</option>
+            <option value="1">Treningi</option>
+            <option value="1">Inne</option>
+        </select>
+        <label for="text">Wpisz tekst notatki</label>
+        <textarea id="text"></textarea>
+        <div class="error">Uzupełnij wszystkie pola!</div>
+        <div class="panel-buttons">
+            <button class="save icon"><i class="fas fa-save"></i>Zapisz</button>
+            <button class="cancel icon"><i class="fas fa-window-close"></i>Anuluj</button>
+        </div>
+    </div>
+
+
+
+
+    <script src="./js/script.js"></script>
+</body>
+</html>
