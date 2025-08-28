@@ -1,13 +1,6 @@
 # My Notes
 
-## Dodaj notatkę
 
-  wybierz kategorię Zakupy Praca Treningi Inne Wpisz tekst notatki
-
-Uzupełnij wszystkie pola!
-
-Zapisz Anuluj
-``` :contentReference[oaicite:0]{index=0}
 
 ###  Proponowana struktura README.md dla **My-notes**
 
