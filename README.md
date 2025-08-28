@@ -63,8 +63,6 @@ Eksport/import notatek (np. do pliku JSON lub PDF).
 
 Badge GitHub – MIT Licencja, status projektu, użyte technologie.
 
-Screenshot lub GIF animowany prezentujący działanie formularza.
-
 Czego się nauczyłem
 Praca z formularzami i wyborem kategorii w czystym JavaScript.
 
@@ -72,5 +70,5 @@ Stylizacja formularza w CSS / SCSS — UX i UI gotowe do dalszego rozwoju.
 
 Hostowanie projektu jako statyczną stronę dzięki GitHub Pages.
 
-Licencja 
+
 Autor: Joachim Esangbedo
