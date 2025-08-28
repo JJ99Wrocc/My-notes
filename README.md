@@ -2,11 +2,6 @@
 
 
 
-###  Proponowana struktura README.md dla **My-notes**
-
-```markdown
-# My Notes  📝
-
 **Krótki opis:**  
 Prosta i intuicyjna aplikacja webowa do zapisywania krótkich notatek z wyborem kategorii takich jak „Zakupy”, „Praca”, „Treningi” i „Inne”. Wygodna forma szybkiej organizacji.
 
